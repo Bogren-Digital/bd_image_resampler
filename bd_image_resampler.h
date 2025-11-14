@@ -15,5 +15,6 @@ END_JUCE_MODULE_DECLARATION
 #include <gin_graphics/gin_graphics.h>
 #include <juce_gui_basics/juce_gui_basics.h>
 
-#include "src/DeferredImageResampler.h"
 #include "src/ResamplingHelpers.h"
+
+#include "src/DeferredImageResampler.h"
